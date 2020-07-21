@@ -2,6 +2,11 @@
 Changelog for package rclcpp_cascade_lifecycle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2020-07-21)
+------------------
+* Remove warnings
+* Contributors: Francisco Martin Rico
+
 0.0.5 (2020-03-26)
 ------------------
 * Fix shared_ptr ambiguous error
