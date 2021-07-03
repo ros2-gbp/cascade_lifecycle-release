@@ -2,22 +2,13 @@
 Changelog for package rclcpp_cascade_lifecycle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.8 (2021-07-03)
+1.0.0 (2021-07-03)
 ------------------
 * Add support for namespace&Fix CI
   1. add support for namespace & test code
   2. fix CI config to v0.2
-* Contributors: Francisco Martín Rico, Homalozoa
-
-0.0.7 (2021-03-12)
-------------------
 * Dynamic add/remove deps
-* Contributors: Francisco Martin Rico, Francisco Martín Rico
-
-0.0.6 (2020-07-21)
-------------------
-* Remove warnings
-* Contributors: Francisco Martin Rico
+* Contributors: Francisco Martin Rico, Francisco Martín Rico, Homalozoa
 
 0.0.5 (2020-03-26)
 ------------------
