@@ -1,0 +1,32 @@
+ros-galactic-cascade-lifecycle-msgs (1.0.0-1focal) focal; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Sat, 03 Jul 2021 00:00:00 -0000
+
+ros-galactic-cascade-lifecycle-msgs (0.0.5-1focal) focal; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Thu, 26 Mar 2020 00:00:00 -0000
+
+ros-galactic-cascade-lifecycle-msgs (0.0.4-1focal) focal; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Mon, 23 Mar 2020 00:00:00 -0000
+
+ros-galactic-cascade-lifecycle-msgs (0.0.3-1focal) focal; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Sun, 22 Mar 2020 00:00:00 -0000
+
+ros-galactic-cascade-lifecycle-msgs (0.0.2-1focal) focal; urgency=high
+
+  * Nodes chained
+  * Contributors: Francisco Martin Rico
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Fri, 13 Mar 2020 00:00:00 -0000
+
+
