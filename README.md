@@ -1,3 +1,28 @@
+## cascade_lifecycle (galactic) - 1.0.0-1
+
+The packages in the `cascade_lifecycle` repository were released into the `galactic` distro by running `/usr/bin/bloom-release cascade_lifecycle --rosdistro galactic` on `Sat, 03 Jul 2021 16:45:36 -0000`
+
+These packages were released:
+- `cascade_lifecycle_msgs`
+- `rclcpp_cascade_lifecycle`
+
+Version of package(s) in repository `cascade_lifecycle`:
+
+- upstream repository: https://github.com/fmrico/cascade_lifecycle.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## cascade_lifecycle (foxy) - 0.0.8-1
 
 The packages in the `cascade_lifecycle` repository were released into the `foxy` distro by running `/usr/bin/bloom-release cascade_lifecycle --rosdistro foxy` on `Sat, 03 Jul 2021 16:03:11 -0000`
