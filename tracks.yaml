@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/ros2-gbp/cascade_lifecycle-release.git
 tracks:
   eloquent:
     actions:
