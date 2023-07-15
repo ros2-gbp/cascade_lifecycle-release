@@ -1,0 +1,56 @@
+ros-iron-cascade-lifecycle-msgs (1.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Fri, 14 Jul 2023 22:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (1.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Fri, 14 Jul 2023 22:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (1.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Fri, 30 Dec 2022 23:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (1.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Wed, 25 May 2022 22:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (1.0.0-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Fri, 02 Jul 2021 22:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (0.0.5-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Wed, 25 Mar 2020 23:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (0.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Sun, 22 Mar 2020 23:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (0.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Sat, 21 Mar 2020 23:00:00 -0000
+
+ros-iron-cascade-lifecycle-msgs (0.0.2-1jammy) jammy; urgency=high
+
+  * Nodes chained
+  * Contributors: Francisco Martin Rico
+
+ -- Francisco Martin Rico <fmrico@gmail.com>  Thu, 12 Mar 2020 23:00:00 -0000
+
+
