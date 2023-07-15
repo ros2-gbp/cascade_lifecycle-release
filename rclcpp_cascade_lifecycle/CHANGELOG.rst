@@ -2,10 +2,11 @@
 Changelog for package rclcpp_cascade_lifecycle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.3 (2022-12-31)
+1.0.4 (2023-07-15)
 ------------------
-* Update to Rolling
-* Contributors: Francisco Martín Rico
+
+1.0.3 (2023-07-15)
+------------------
 
 1.0.2 (2022-12-31)
 ------------------
