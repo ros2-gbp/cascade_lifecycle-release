@@ -1,3 +1,28 @@
+## cascade_lifecycle (humble) - 1.1.0-1
+
+The packages in the `cascade_lifecycle` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release cascade_lifecycle --rosdistro humble` on `Thu, 04 Apr 2024 05:43:39 -0000`
+
+These packages were released:
+- `cascade_lifecycle_msgs`
+- `rclcpp_cascade_lifecycle`
+
+Version of package(s) in repository `cascade_lifecycle`:
+
+- upstream repository: https://github.com/fmrico/cascade_lifecycle.git
+- release repository: https://github.com/ros2-gbp/cascade_lifecycle-release.git
+- rosdistro version: `1.0.2-2`
+- old version: `1.0.2-2`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## cascade_lifecycle (rolling) - 2.0.0-1
 
 The packages in the `cascade_lifecycle` repository were released into the `rolling` distro by running `/usr/local/bin/bloom-release cascade_lifecycle --rosdistro rolling` on `Thu, 04 Apr 2024 05:36:46 -0000`
