@@ -1,0 +1,77 @@
+ros-iron-rclcpp-cascade-lifecycle (1.0.5-1jammy) jammy; urgency=high
+
+  * Fix clear activations
+  * Contributors: Francisco Martín Rico
+
+ -- fmrico <fmrico@gmail.com>  Wed, 03 Apr 2024 22:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (1.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- fmrico <fmrico@gmail.com>  Fri, 14 Jul 2023 22:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (1.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- fmrico <fmrico@gmail.com>  Fri, 14 Jul 2023 22:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (1.0.2-1jammy) jammy; urgency=high
+
+  * Fix new deactivation publishers policy
+  * Contributors: Francisco Martín Rico
+
+ -- fmrico <fmrico@gmail.com>  Fri, 30 Dec 2022 23:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (1.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- fmrico <fmrico@gmail.com>  Wed, 25 May 2022 22:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (1.0.0-1jammy) jammy; urgency=high
+
+  * Add support for namespace&Fix CI
+    1. add support for namespace & test code
+    2. fix CI config to v0.2
+  * Dynamic add/remove deps
+  * Contributors: Francisco Martin Rico, Francisco Martín Rico, Homalozoa
+
+ -- fmrico <fmrico@gmail.com>  Fri, 02 Jul 2021 22:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (0.0.5-1jammy) jammy; urgency=high
+
+  * Fix shared_ptr ambiguous error
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Contributors: Francisco Martin Rico
+
+ -- fmrico <fmrico@gmail.com>  Wed, 25 Mar 2020 23:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (0.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- fmrico <fmrico@gmail.com>  Sun, 22 Mar 2020 23:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (0.0.3-1jammy) jammy; urgency=high
+
+  * Installing headers and libs
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Add license
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Contributors: Francisco Martin Rico
+
+ -- fmrico <fmrico@gmail.com>  Sat, 21 Mar 2020 23:00:00 -0000
+
+ros-iron-rclcpp-cascade-lifecycle (0.0.2-1jammy) jammy; urgency=high
+
+  * Adding CI
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Complete functional version
+  * Nodes chained
+  * Contributors: Francisco Martin Rico
+
+ -- fmrico <fmrico@gmail.com>  Thu, 12 Mar 2020 23:00:00 -0000
+
+
