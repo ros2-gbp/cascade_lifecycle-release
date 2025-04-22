@@ -1,1 +1,1 @@
-{"base": "541e00e", "parent": "debian/rolling/cascade_lifecycle_msgs", "previous": "641bdb6", "trim": "", "trimbase": ""}
+{"base": "3c1582205ec5", "parent": "debian/kilted/cascade_lifecycle_msgs", "previous": "e4e276830284", "trim": "", "trimbase": ""}
