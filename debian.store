@@ -1,1 +1,1 @@
-{"base": "f371980", "parent": "debian/rolling/rclcpp_cascade_lifecycle", "previous": "e680c46", "trim": "", "trimbase": ""}
+{"base": "0521257374b5", "parent": "debian/kilted/rclcpp_cascade_lifecycle", "previous": "8e2068b014f4", "trim": "", "trimbase": ""}
