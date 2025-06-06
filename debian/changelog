@@ -1,0 +1,20 @@
+ros-rolling-rclpy-cascade-lifecycle (2.0.4-1noble) noble; urgency=high
+
+
+
+ -- Juan Carlos Manzanares Serrano <jc.manzanares.serrano@gmail.com>  Thu, 05 Jun 2025 22:00:00 -0000
+
+ros-rolling-rclpy-cascade-lifecycle (2.0.3-1noble) noble; urgency=high
+
+
+
+ -- Juan Carlos Manzanares Serrano <jc.manzanares.serrano@gmail.com>  Thu, 05 Jun 2025 22:00:00 -0000
+
+ros-rolling-rclpy-cascade-lifecycle (2.0.2-1noble) noble; urgency=high
+
+  * Created rclpy_cascade_lifecycle
+  * Contributors: Francisco Martín Rico, Juan Carlos Manzanares Serrano
+
+ -- Juan Carlos Manzanares Serrano <jc.manzanares.serrano@gmail.com>  Fri, 11 Oct 2024 22:00:00 -0000
+
+

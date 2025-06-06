@@ -1,0 +1,12 @@
+Source: ros-rolling-rclpy-cascade-lifecycle
+Section: misc
+Priority: optional
+Maintainer: Juan Carlos Manzanares Serrano <jc.manzanares.serrano@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-rolling-ament-copyright <!nocheck>, ros-rolling-ament-flake8 <!nocheck>, ros-rolling-ament-pep257 <!nocheck>, ros-rolling-cascade-lifecycle-msgs, ros-rolling-lifecycle-msgs, ros-rolling-rclcpp, ros-rolling-rclcpp-lifecycle, ros-rolling-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-rclpy-cascade-lifecycle
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-rolling-cascade-lifecycle-msgs, ros-rolling-lifecycle-msgs, ros-rolling-rclcpp, ros-rolling-rclcpp-lifecycle, ros-rolling-ros-workspace
+Description: Provides a mechanism to make trees of lifecycle nodes to propagate state changes in python
