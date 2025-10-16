@@ -1,0 +1,12 @@
+Source: ros-kilted-rclpy-cascade-lifecycle
+Section: misc
+Priority: optional
+Maintainer: Juan Carlos Manzanares Serrano <jc.manzanares.serrano@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-kilted-ament-copyright <!nocheck>, ros-kilted-ament-flake8 <!nocheck>, ros-kilted-ament-pep257 <!nocheck>, ros-kilted-cascade-lifecycle-msgs, ros-kilted-lifecycle-msgs, ros-kilted-rclcpp, ros-kilted-rclcpp-lifecycle, ros-kilted-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-rclpy-cascade-lifecycle
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-kilted-cascade-lifecycle-msgs, ros-kilted-lifecycle-msgs, ros-kilted-rclcpp, ros-kilted-rclcpp-lifecycle, ros-kilted-ros-workspace
+Description: Provides a mechanism to make trees of lifecycle nodes to propagate state changes in python
