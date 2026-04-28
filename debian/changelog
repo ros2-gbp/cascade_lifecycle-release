@@ -1,0 +1,88 @@
+ros-rolling-rclcpp-cascade-lifecycle (2.0.4-2trixie) trixie; urgency=high
+
+  * Fix deprecation of ament_target_dependencies
+  * Contributors: Francisco Martín Ricoo, David Lu, Alejandro Hernández Cordero
+
+ -- fmrico <fmrico@gmail.com>  Fri, 06 Jun 2025 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (2.0.3-2trixie) trixie; urgency=high
+
+  * Change to EventsExecutor
+  * Explicit removal of node from executor before destroy in no dups
+  * Contributors: Francisco Martín Rico, David Lu, Alejandro Hernández Cordero
+
+ -- fmrico <fmrico@gmail.com>  Fri, 06 Jun 2025 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (2.0.2-2trixie) trixie; urgency=high
+
+  * Explicit removal of node from executor before destroy
+  * Allow to have pubs/sub with standard QoS
+  * Contributors: Francisco Martín Rico, Juan Carlos Manzanares Serrano
+
+ -- fmrico <fmrico@gmail.com>  Sat, 12 Oct 2024 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (2.0.0-2trixie) trixie; urgency=high
+
+  * Fix clear_activation
+  * Contributors: Francisco Martín Rico
+
+ -- fmrico <fmrico@gmail.com>  Thu, 04 Apr 2024 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (1.0.2-2trixie) trixie; urgency=high
+
+  * Fix new deactivation publishers policy
+  * Contributors: Francisco Martín Rico
+
+ -- fmrico <fmrico@gmail.com>  Sat, 31 Dec 2022 06:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (1.0.1-2trixie) trixie; urgency=high
+
+
+
+ -- fmrico <fmrico@gmail.com>  Thu, 26 May 2022 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (1.0.0-2trixie) trixie; urgency=high
+
+  * Add support for namespace&Fix CI
+    1. add support for namespace & test code
+    2. fix CI config to v0.2
+  * Dynamic add/remove deps
+  * Contributors: Francisco Martin Rico, Francisco Martín Rico, Homalozoa
+
+ -- fmrico <fmrico@gmail.com>  Sat, 03 Jul 2021 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (0.0.5-2trixie) trixie; urgency=high
+
+  * Fix shared_ptr ambiguous error
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Contributors: Francisco Martin Rico
+
+ -- fmrico <fmrico@gmail.com>  Thu, 26 Mar 2020 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (0.0.4-2trixie) trixie; urgency=high
+
+
+
+ -- fmrico <fmrico@gmail.com>  Mon, 23 Mar 2020 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (0.0.3-2trixie) trixie; urgency=high
+
+  * Installing headers and libs
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Add license
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Contributors: Francisco Martin Rico
+
+ -- fmrico <fmrico@gmail.com>  Sun, 22 Mar 2020 05:00:00 -0000
+
+ros-rolling-rclcpp-cascade-lifecycle (0.0.2-2trixie) trixie; urgency=high
+
+  * Adding CI
+    Signed-off-by: Francisco Martin Rico <mailto:fmrico@gmail.com>
+  * Complete functional version
+  * Nodes chained
+  * Contributors: Francisco Martin Rico
+
+ -- fmrico <fmrico@gmail.com>  Fri, 13 Mar 2020 05:00:00 -0000
+
+
