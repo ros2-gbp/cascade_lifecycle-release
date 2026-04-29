@@ -1,0 +1,12 @@
+Source: ros-lyrical-rclpy-cascade-lifecycle
+Section: misc
+Priority: optional
+Maintainer: Juan Carlos Manzanares Serrano <jc.manzanares.serrano@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-lyrical-ament-copyright <!nocheck>, ros-lyrical-ament-flake8 <!nocheck>, ros-lyrical-ament-pep257 <!nocheck>, ros-lyrical-cascade-lifecycle-msgs, ros-lyrical-lifecycle-msgs, ros-lyrical-rclcpp, ros-lyrical-rclcpp-lifecycle, ros-lyrical-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: https://index.ros.org/p/rclpy_cascade_lifecycle/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rclpy-cascade-lifecycle
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-lyrical-cascade-lifecycle-msgs, ros-lyrical-lifecycle-msgs, ros-lyrical-rclcpp, ros-lyrical-rclcpp-lifecycle, ros-lyrical-ros-workspace
+Description: Provides a mechanism to make trees of lifecycle nodes to propagate state changes in python
