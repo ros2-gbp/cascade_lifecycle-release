@@ -1,0 +1,39 @@
+ros-humble-rclpy-cascade-lifecycle (2.0.7-1jammy) jammy; urgency=high
+
+  * One version for Humble, Jazzy, Kilted and Lyrical. New in Humble
+  * Do not abort when the state timer runs after shutdown (#25 <https://github.com/fmrico/cascade_lifecycle/issues/25>)
+  * Tests discover only nodes on this host (#23 <https://github.com/fmrico/cascade_lifecycle/issues/23>)
+  * Contributors: Francisco Martín Rico
+
+ -- "Juan Carlos Manzanares Serrano" <jc.manzanares.serrano@gmail.com>  Tue, 20 Oct 2026 22:00:00 -0000
+
+ros-humble-rclpy-cascade-lifecycle (2.0.6-1jammy) jammy; urgency=high
+
+  * Update to rolling
+  * Merge pull request #21 <https://github.com/fmrico/cascade_lifecycle/issues/21> from ahcorde/ahcorde/rolling/fix_dependency
+    Fixed rclpy_cascade_lifecycle package.xml
+  * Fixed rclpy_cascade_lifecycle package.xml
+  * Contributors: Alejandro Hernandez Cordero, Francisco Martín Rico
+
+ -- "Juan Carlos Manzanares Serrano" <jc.manzanares.serrano@gmail.com>  Mon, 27 Jul 2026 22:00:00 -0000
+
+ros-humble-rclpy-cascade-lifecycle (2.0.4-1jammy) jammy; urgency=high
+
+
+
+ -- "Juan Carlos Manzanares Serrano" <jc.manzanares.serrano@gmail.com>  Thu, 05 Jun 2025 22:00:00 -0000
+
+ros-humble-rclpy-cascade-lifecycle (2.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- "Juan Carlos Manzanares Serrano" <jc.manzanares.serrano@gmail.com>  Thu, 05 Jun 2025 22:00:00 -0000
+
+ros-humble-rclpy-cascade-lifecycle (2.0.2-1jammy) jammy; urgency=high
+
+  * Created rclpy_cascade_lifecycle
+  * Contributors: Francisco Martín Rico, Juan Carlos Manzanares Serrano
+
+ -- "Juan Carlos Manzanares Serrano" <jc.manzanares.serrano@gmail.com>  Fri, 11 Oct 2024 22:00:00 -0000
+
+
