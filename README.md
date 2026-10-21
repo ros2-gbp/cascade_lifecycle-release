@@ -1,3 +1,29 @@
+## cascade_lifecycle (lyrical) - 2.0.7-1
+
+The packages in the `cascade_lifecycle` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --rosdistro lyrical --track lyrical cascade_lifecycle --no-pull-request --override-release-repository-url https://github.com/ros2-gbp/cascade_lifecycle-release.git` on `Wed, 21 Oct 2026 07:53:14 -0000`
+
+These packages were released:
+- `cascade_lifecycle_msgs`
+- `rclcpp_cascade_lifecycle`
+- `rclpy_cascade_lifecycle`
+
+Version of package(s) in repository `cascade_lifecycle`:
+
+- upstream repository: https://github.com/fmrico/cascade_lifecycle.git
+- release repository: https://github.com/ros2-gbp/cascade_lifecycle-release.git
+- rosdistro version: `2.0.6-1`
+- old version: `2.0.6-1`
+- new version: `2.0.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## cascade_lifecycle (kilted) - 2.0.7-1
 
 The packages in the `cascade_lifecycle` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted cascade_lifecycle --no-pull-request --override-release-repository-url https://github.com/ros2-gbp/cascade_lifecycle-release.git` on `Wed, 21 Oct 2026 07:52:33 -0000`
