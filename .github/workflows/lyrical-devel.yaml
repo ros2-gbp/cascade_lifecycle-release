@@ -1,12 +1,12 @@
-name: rolling
+name: lyrical-devel
 
 on:
   pull_request:
     branches:
-      - rolling
+      - lyrical-devel
   push:
     branches:
-      - rolling
+      - lyrical-devel
   schedule:
       - cron: '0 0 * * 0'
   workflow_dispatch:
@@ -14,17 +14,17 @@ jobs:
   build-and-test:
     runs-on: ubuntu-26.04
     container:
-      image: ghcr.io/ros-tooling/setup-ros-docker/setup-ros-docker-ubuntu-resolute-ros-rolling-ros-base:master
+      image: ghcr.io/ros-tooling/setup-ros-docker/setup-ros-docker-ubuntu-resolute-ros-lyrical-ros-base:master
     steps:
       - name: Repo checkout
         uses: actions/checkout@v6
         with:
-          ref: rolling
+          ref: lyrical-devel
       - name: build and test
         uses: ros-tooling/action-ros-ci@0.4.8
         with:
           package-name: rclcpp_cascade_lifecycle rclpy_cascade_lifecycle cascade_lifecycle_msgs
-          target-ros2-distro: rolling
+          target-ros2-distro: lyrical
           colcon-defaults: |
             {
               "test": {
